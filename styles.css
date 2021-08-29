@@ -1,0 +1,70 @@
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px
+    }
+
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+a:hover {
+    font-weight: bold;
+}
+#github{
+    float:center;
+    margin-right: 120px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+h3
+{
+	text-decoration: underline;
+}
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	transition: 0.5s;
+	border-radius: 5px;
+	
+}
+
+.card:hover{
+	box-shadow:0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container{
+	padding: 2px 16px;
+}
+img{
+	border-radius: 5px 5px 5px 5px;
+}
